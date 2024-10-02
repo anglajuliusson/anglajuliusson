@@ -1,15 +1,8 @@
-# Moment 3
+# Vem är jag?
 
-## Uppgiften består av 2st delar:
-1. Del 1 - Besvara på frågor som handlar om Git
-2. Del 2 - Skapa ett GitHub konto och pubblicera en README.md-fil
+Jag är 22 år och kommer ifrån Arvidsjaur, där jag bor tillsammans med min sambo och vår mops Ozzy. 
+På fritiden gillar jag att umgås med vänner, sjunga, gå på långa skogspromenader och pyssla. 
 
-## Sammanfattning
-Uppgiften går ut på att besvara frågor och beskriva olika begrepp för att få förståelse för versionshantering, 
-kunna använda Git versionshantering samt använda Github som molntjänst för att publicera Git-baserade datasamlingar (“repositories”).
-
-## Konstruktion
-För att kunna lösa denna uppgift kommer jag att läsa teori och läshänvisningarna för moment 3 som du finner i länken nedan:
-https://elearn20.miun.se/moodle/pluginfile.php/1658876/mod_resource/content/4/moment_3_teori.html?embed=1# 
-
-Jag kommer även att använda mig av olika, pålitliga webbsidor för att läsa om de olika begreppen som ska besvaras i del 1.
+Jag har ingen tidigare erfarenhet av programmering men ser mycket fram emot att få lära mig. 
+Det var en nära vän till mig som tipsade om detta program och tänkte att det skulle passa mig då jag gillar att vara kreativ och skapa. 
+När jag sedan läste på om vad detta program innebar kände jag att detta verkligen kan vara något för mig!
